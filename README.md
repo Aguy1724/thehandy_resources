@@ -11,7 +11,6 @@ https://www.thehandy.com/
 - [Tools](#tools)
 - [Dev Area](#development-area)
 
--hr-
 ## Note
 The starting point for this is based off a thread on The Handy subreddit. Some of this is copy/paste but I will be adding my own notes and other resources I find.
 
