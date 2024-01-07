@@ -4,8 +4,14 @@ https://www.thehandy.com/
 
 - [Other Resources](#other-resources)
 - [Controllers](#Controllers)
-- ([Video Platform & Syncs](#video-platform--syncs))
+- [Video Platform & Syncs](#video-platform--syncs)
+  - [Paid Sites](#paid-sites)
+- [Playback engines, bring your own script](#playback-engines)
+- [Scripts](#scripts)
+- [Tools](#tools)
+- [Dev Area](#development-area)
 
+-hr-
 ## Note
 The starting point for this is based off a thread on The Handy subreddit. Some of this is copy/paste but I will be adding my own notes and other resources I find.
 
@@ -46,8 +52,8 @@ Discounts for the following sites can be found here, provided by The Handy Team.
 - [FeelXVideos](https://www.feelxvideos.com/)
 - [Sex Like Real](https://www.sexlikereal.com/)
 
-## Playback Engines
 
+## Playback Engines
 Apps or services that let you sync your own video and Funscripts
 *NOTE* Scripts are required for these. Local copies of the videos are also required.
 See the [Scripts](#Scripts) section below
