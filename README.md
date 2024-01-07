@@ -16,31 +16,23 @@ As simple as it comes. The remote control
 - Handy Feeling: https://www.handyfeeling.com/
   - Official service from The Handy
   - [Handy Feeling Remote](https://www.handyfeeling.com/remote)
-
-        Random Stroker
-
-    Funscript.io: Auto Mode
-
-    Funscript.io: Manual Mode
+  - [Handy Feeing Random Stroker](https://www.handyfeeling.com/random)
+  - [Funscript.io: Auto Mode](https://funscript.io/auto)
+  - [Funscript.io: Manual Mode](https://funscript.io/manual)
 
 ## Video Platform & Syncs
 
 Offers playback and sync in one
 (Not to be confused with Playback Engines section below)
-
-    FapTap
-
-    IVDB
-    Interactive video database (see below)
-
-    AdultSync Wanks.com
-    Interactive video database natively without any extra software/web extensions
-
-    Stroke a Beat
-    Cock Hero without music. Can create your own CH by typing keywords with accompanying tempo & intensity.
-
-    Fap Instructor
-    Similar to Stroke a Beat, but with subreddits and custom rules (“Tasks”)
+- [FapTap](https://faptap.net/)
+- [IVDB](https://www.ivdb.io/#/videos)
+  - Interactive video database (see below)
+- [Wanks.com](https://wanks.com/)
+  - Interactive video database natively without any extra software/web extensions. Front end for IVDB. FKA: AdultSync
+- [Stroke a Beat](https://www.strokeabeat.com/)
+  - Cock Hero without music. Can create your own CH by typing keywords with accompanying tempo & intensity.
+- [Fap Instructor](https://fapinstructor.com/)
+  - Similar to Stroke a Beat, but with subreddits and custom rules (“Tasks”)
 
 Discounts for the following sites can be found here, provided by The Handy Team. All payments go to The Handy Team and relevant parties (The links below feature NO affiliate or discount codes in the URL)
 
