@@ -66,24 +66,24 @@ Sites that offer no playback, just the Funscripts
   - Offers [free](https://realsync.us/collections/free-syncs) and paid Funscripts. Once again, personally I have not used this one as much.
 
 - [Connect My Handy](https://www.connectmyhandy.com/)
-  - Features popular previews for scenes released in 2010s. If available, full versions are linked inside the preview. 
+  - Features popular previews for scenes released in 2010s. If available, full versions are linked inside the preview.
+  - I haven't heard of this one, on my list to check out.
 
 ## Tools
+- [Handy Feeling: Script Convertor](https://playground.handyfeeling.com/scriptconverter/index.html)
+  - Used to convert scripts that are too long to handy, I'm not sure how often this is needed now.
+- [Handy Feeling: Convert Funscript to CSV](https://www.handyfeeling.com/convert-script)
 
-    Handy Feeling: Script Convertor
-
-    Handy Feeling: Convert Funscript to CSV
-
-    Funscript Conversion Tool
-    Can invert Funscripts, smooth out patterns, etc.
+- [Funscript Conversion Tool](https://xqueezeme.github.io/)
+  - Can invert Funscripts, smooth out patterns, etc.
 
 ## Development Area
 
-    XToys
-    XToys can be extremely technical and covers a whole range of plugins and extensions for multiple sex toys. You can find user-made content on here, however I see it fitting more into a “Miscellaneous” or “Development Area” section.
+- [XToys](https://xtoys.app/)
+  - XToys can be extremely technical and covers a whole range of plugins and extensions for multiple sex toys. You can find user-made content on here, however I see it fitting more into a “Miscellaneous” or “Development Area” section.
 
-    Handy Feeling: Scripter
-    Make your own Funscripts (with motion tracking capabilities)
+- [Handy Feeling: Scripter](https://playground.handyfeeling.com/scripter3/)
+  - Make your own Funscripts (with motion tracking capabilities)
 
-    Handy Feeling: Beatbox
-    Draw patterns that will be played
+- [Handy Feeling: Beatbox](https://playground.handyfeeling.com/beatboxv2/index.html)
+  - Draw patterns that will be played
