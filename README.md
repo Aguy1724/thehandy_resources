@@ -1,5 +1,6 @@
-# thehandy_resources
+# The Handy Resources
 List of resources for "The Handy"
+https://www.thehandy.com/
 
 ## Note
 The starting point for this is based off a thread on The Handy subreddit.
@@ -34,15 +35,12 @@ Offers playback and sync in one
 - [Fap Instructor](https://fapinstructor.com/)
   - Similar to Stroke a Beat, but with subreddits and custom rules (“Tasks”)
 
+### Paid Sites
 Discounts for the following sites can be found here, provided by The Handy Team. All payments go to The Handy Team and relevant parties (The links below feature NO affiliate or discount codes in the URL)
-
-    Adult Time
-
-    CzechVR
-
-    FeelXVideos
-
-    Sex Like Real
+- [Adult Time](https://www.adulttime.com/)
+- [CzechVR](https://www.czechvr.com/tag-teledildonics)
+- [FeelXVideos](https://www.feelxvideos.com/)
+- [Sex Like Real](https://www.sexlikereal.com/)
 
 ## Playback Engines
 
