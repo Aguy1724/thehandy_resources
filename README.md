@@ -3,7 +3,7 @@ List of resources for "The Handy"
 https://www.thehandy.com/
 
 ## Note
-The starting point for this is based off a thread on The Handy subreddit.
+The starting point for this is based off a thread on The Handy subreddit. Some of this is copy/paste but I will be adding my own notes and other resources I find.
 
 ## Other resources
 ### The Handy Subreddit
@@ -45,32 +45,28 @@ Discounts for the following sites can be found here, provided by The Handy Team.
 ## Playback Engines
 
 Apps or services that let you sync your own video and Funscripts
-(Goes hand-in-hand with the Scripts section)
+*NOTE* Scripts are required for these. Local copies of the videos are also required.
+See the [Scripts] section below
 (Not to be confused with Video Platform & Syncs section above)
-
-    Handy Feeling: Local Video
-    Supports VR
-
-    Funscript.io: Play Mode
-
-    Handy Feeling: Playlist Creator
+- [Handy Feeling: Local Video](https://www.handyfeeling.com/local-video)
+  - Supports VR
+- [Funscript.io: Play Mode](https://funscript.io/play)
+- [Handy Feeling: Playlist Creator](https://playground.handyfeeling.com/playlist/index.html)
 
 ## Scripts
 
 Sites that offer no playback, just the Funscripts
 (Goes hand-in-hand with the Playback Engines section above)
+- [EroScripts](https://discuss.eroscripts.com/)
+  - Registration required, offers both free and paid scripts. Registration is free. Lots of additional information and potentially other resources.
+- [ScriptAxis](https://scriptaxis.com/)
+  - Personally, I haven't used this one as much, more thoughts when I do.
 
-    EroScripts
-    (Registration required)
+- [RealSync](https://realsync.us/)
+  - Offers [free](https://realsync.us/collections/free-syncs) and paid Funscripts. Once again, personally I have not used this one as much.
 
-    ScriptAxis
-    The Funscript Library
-
-    RealSync
-    Offers free and paid Funscripts
-
-    Connect My Handy
-    Features popular previews for scenes released in 2010s. If available, full versions are linked inside the preview.
+- [Connect My Handy](https://www.connectmyhandy.com/)
+  - Features popular previews for scenes released in 2010s. If available, full versions are linked inside the preview. 
 
 ## Tools
 
