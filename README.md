@@ -2,6 +2,10 @@
 List of resources for "The Handy"
 https://www.thehandy.com/
 
+- [Other Resources](#other-resources)
+- [Controllers](#Controllers)
+- ([Video Platform & Syncs](#video-platform--syncs))
+
 ## Note
 The starting point for this is based off a thread on The Handy subreddit. Some of this is copy/paste but I will be adding my own notes and other resources I find.
 
@@ -13,13 +17,13 @@ https://www.reddit.com/r/theHandy/
 
 As simple as it comes. The remote control
 - Handy Looper: https://handylooper.pages.dev/
-- Loops 
+  - Loops 
 - Handy Feeling: https://www.handyfeeling.com/
   - Official service from The Handy
-  - [Handy Feeling Remote](https://www.handyfeeling.com/remote)
-  - [Handy Feeing Random Stroker](https://www.handyfeeling.com/random)
-  - [Funscript.io: Auto Mode](https://funscript.io/auto)
-  - [Funscript.io: Manual Mode](https://funscript.io/manual)
+- [Handy Feeling Remote](https://www.handyfeeling.com/remote)
+- [Handy Feeing Random Stroker](https://www.handyfeeling.com/random)
+- [Funscript.io: Auto Mode](https://funscript.io/auto)
+- [Funscript.io: Manual Mode](https://funscript.io/manual)
 
 ## Video Platform & Syncs
 
