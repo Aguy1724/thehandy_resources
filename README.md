@@ -6,14 +6,14 @@ The starting point for this is based off a thread on The Handy subreddit.
 
 ## Other resources
 ### The Handy Subreddit
-[https://www.reddit.com/r/theHandy/]
+https://www.reddit.com/r/theHandy/
 
 ## Controllers
 
 As simple as it comes. The remote control
-- Handy Looper: [https://handylooper.pages.dev/]
+- Handy Looper: https://handylooper.pages.dev/
 - Loops 
-- Handy Feeling: [https://www.handyfeeling.com/]
+- Handy Feeling: https://www.handyfeeling.com/
   - Official service from The Handy
   - [Handy Feeling Remote](https://www.handyfeeling.com/remote)
 
