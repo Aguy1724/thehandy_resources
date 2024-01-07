@@ -46,7 +46,7 @@ Discounts for the following sites can be found here, provided by The Handy Team.
 
 Apps or services that let you sync your own video and Funscripts
 *NOTE* Scripts are required for these. Local copies of the videos are also required.
-See the [Scripts] section below
+See the [Scripts](#Scripts#) section below
 (Not to be confused with Video Platform & Syncs section above)
 - [Handy Feeling: Local Video](https://www.handyfeeling.com/local-video)
   - Supports VR
