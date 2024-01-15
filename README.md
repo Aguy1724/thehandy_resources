@@ -2,7 +2,6 @@
 List of resources for "The Handy"
 https://www.thehandy.com/
 
-Original list/format: https://www.reddit.com/r/theHandy/comments/128lg63/the_handy_directory/
 
 - [Other Resources](#other-resources)
 - [Controllers](#Controllers)
@@ -15,6 +14,8 @@ Original list/format: https://www.reddit.com/r/theHandy/comments/128lg63/the_han
 
 ## Note
 The starting point for this is based off a thread on The Handy subreddit. Some of this is copy/paste but I will be adding my own notes and other resources I find.
+Original list/format: https://www.reddit.com/r/theHandy/comments/128lg63/the_handy_directory/
+
 
 ## Other resources
 ### The Handy Subreddit
